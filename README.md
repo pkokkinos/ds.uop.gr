@@ -11,6 +11,7 @@
 09/2022 <br>
 Δημιουργία δισδιάστατου παιχνιδιού σε μηχανή Unity, Γιώργος Μαντασάς <br>
 Video: https://www.youtube.com/watch?v=zGgpmA0RksM&feature=youtu.be
+Αρχεία: https://drive.google.com/drive/folders/1rNm-MP87clWsDzvqvTpcVrpKAJ4ICfiB
 
 04/2021 <br>
 Συστήματα Έξυπνων και Ομιλούντων Βοηθών Πόλης, Εμμανουήλ Τσίτκανος <br>
